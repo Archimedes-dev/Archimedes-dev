@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Archimedes-dev
+- 👀 I’m interested in programming
+- 🌱 I’m currently learning c/js
+- 💞️ I’m looking to collaborate on nothing
+- 📫 How to reach me discord archimedes_dev
